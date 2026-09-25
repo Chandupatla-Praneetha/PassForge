@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PassForge — Generate. Analyze. Protect.
 
 A desktop password manager: create, analyze, and store your passwords behind
@@ -206,3 +207,7 @@ and a one-time pairing step using a token PassForge generates for you.
 ## License
 
 MIT — see `LICENSE`.
+=======
+# PassForge
+PassForge — Generate. Analyze. Protect.Desktop password manager with a master-password vault, entropy-based strength scoring, secure generation, and a browser extension that offers to save passwords as you create them.
+>>>>>>> 4c7dab11dc2d11a9db03e1816b73aeb1221a03a1
